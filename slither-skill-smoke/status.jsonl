@@ -1,0 +1,6 @@
+{"duration": 20.0, "event": "session_start", "executable": "/Users/shaunak/Development/hermopolis/.playwright-browsers/chromium-1208/chrome-mac-x64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing", "headless": true, "nickname": "clowno", "output_dir": "/Users/shaunak/Development/hermopolis/slither-skill-smoke", "rounds": 1, "ts": "2026-03-15T03:41:51Z"}
+{"event": "round_start", "nickname": "clowno", "round": 1, "ts": "2026-03-15T03:41:56Z"}
+{"event": "landing_ready", "round": 1, "screenshot": "/Users/shaunak/Development/hermopolis/slither-skill-smoke/landing_round_01.png", "status": 200, "ts": "2026-03-15T03:42:08Z"}
+{"event": "joined_game", "my_nick": "clowno", "rank": 244, "round": 1, "screenshot": "/Users/shaunak/Development/hermopolis/slither-skill-smoke/joined_round_01.png", "ts": "2026-03-15T03:42:13Z"}
+{"event": "round_timeout", "round": 1, "screenshot": "/Users/shaunak/Development/hermopolis/slither-skill-smoke/timeout_round_01.png", "ts": "2026-03-15T03:42:14Z"}
+{"event": "session_end", "output_dir": "/Users/shaunak/Development/hermopolis/slither-skill-smoke", "ts": "2026-03-15T03:42:14Z"}
